@@ -6,6 +6,9 @@ Created on Sat Mar  6 07:27:36 2021
 @author: ysun
 """
 
+# 使用字典树来处理XOR问题
+# 对query排序来处理m的约束的问题
+
 
 class Solution:
     def maximizeXor(self, nums, queries) :
