@@ -8,6 +8,8 @@ Created on Fri Mar 26 15:47:44 2021
 
 '''
 经典二分问题
+time complexity - O(NlogV), N - size of nums, V - value of max(nums)
+space complexity - O(1)
 '''
 
 class Solution(object):
